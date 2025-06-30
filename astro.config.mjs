@@ -3,7 +3,7 @@ import cloudflare from '@astrojs/cloudflare';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://diperkosarame.pages.dev',
+  site: 'https://viraltobrutngewe.pages.dev',
   output: 'server',
   adapter: cloudflare(),
   integrations: 

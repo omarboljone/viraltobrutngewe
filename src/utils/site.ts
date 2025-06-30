@@ -1,4 +1,4 @@
-export const nama = 'Diperkosa Rame';
-export const desk = 'Video bokep indo jepang viral ngentot colmek bocil jilbab smp tante.';
-export const url = 'https://diperkosarame.pages.dev';
-export const terbit = '2025-06-26T00:00:00Z';
+export const nama = 'Viral Tobrut Ngewe';
+export const desk = 'Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma';
+export const url = 'https://viraltobrutngewe.pages.dev';
+export const terbit = '2025-06-26T00:01:03Z';
